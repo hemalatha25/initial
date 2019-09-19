@@ -15,3 +15,7 @@ this was edited locally.
 this file is just a readme fil
 The purpose of this file is to provide examples
 on how to use Git and GitHub together.
+
+## Getting Started
+
+to get started with this project, just 'clone' this repositry.
